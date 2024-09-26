@@ -1,0 +1,10 @@
+{
+  "cryptoTitle": "CRYPTO LIST",
+  "tradingApp": "Trading App",
+  "dollarSymbol": "$",
+  "processCompleted": "Process Completed",
+  "somethingWentWrong": "Something went wrong, Please try after sometime.",
+  "unableToConnect": "Unable to establish a connection",
+  "requestTimeout": "Request timeout",
+  "errorTitle": "ERROR"
+}
