@@ -60,6 +60,7 @@ The application follows [MVVM] Architecture which is divided into three layers
 
 The dependency of the application flows from View to Model i.e 
 [Presentation Layer] -> [Domain Layer] -> [Data Layer]
+[View] -> [ViewModel] -> [Model]
 
 ## Testing
 Testing of the application mainly consists of UI and BLoC testing.

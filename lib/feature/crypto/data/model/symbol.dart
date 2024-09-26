@@ -123,10 +123,10 @@ class Symbol extends SymbolEntity {
     };
   }
 
-  // Method to encode an Article object to a JSON string
+  // Method to encode an Symbol object to a JSON string
   String toJsonString() => json.encode(toJson());
 
-  // Factory method to create an Article from a JSON string
+  // Factory method to create an Symbol from a JSON string
   factory Symbol.fromJsonString(String jsonString) {
     return Symbol.fromJson(json.decode(jsonString) as Map<String, dynamic>);
   }

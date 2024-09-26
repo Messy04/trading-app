@@ -1,5 +1,4 @@
 import 'package:equatable/equatable.dart';
-import 'package:trading_app/core/utils/app_typedefs.dart';
 
 abstract class CryptoEvent extends Equatable {
   const CryptoEvent();
